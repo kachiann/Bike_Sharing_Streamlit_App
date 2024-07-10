@@ -27,7 +27,7 @@ This Streamlit app analyzes bike sharing data to uncover usage patterns and pred
 
 Run the Streamlit app:
 ```bash
-streamlit run bike_sharing_app.py
+streamlit run Bike_sharing_app.py
 ```
 
 The app will open in your default web browser.
