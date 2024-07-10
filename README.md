@@ -14,7 +14,7 @@ This Streamlit app analyzes bike sharing data to uncover usage patterns and pred
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kachiann/bike-sharing-analysis.git
+   git clone https://github.com/kachiann/Bike_sharing_streamlit.git
    cd bike-sharing-analysis
    ```
 
